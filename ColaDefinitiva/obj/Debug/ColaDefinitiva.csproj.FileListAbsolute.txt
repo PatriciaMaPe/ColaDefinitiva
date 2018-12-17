@@ -1,0 +1,5 @@
+C:\Users\Patri\Downloads\Parte2DIA\ColaDefinitiva\ColaDefinitiva\bin\Debug\ColaDefinitiva.exe
+C:\Users\Patri\Downloads\Parte2DIA\ColaDefinitiva\ColaDefinitiva\bin\Debug\ColaDefinitiva.pdb
+C:\Users\Patri\Downloads\Parte2DIA\ColaDefinitiva\ColaDefinitiva\obj\Debug\ColaDefinitiva.csproj.CoreCompileInputs.cache
+C:\Users\Patri\Downloads\Parte2DIA\ColaDefinitiva\ColaDefinitiva\obj\Debug\ColaDefinitiva.exe
+C:\Users\Patri\Downloads\Parte2DIA\ColaDefinitiva\ColaDefinitiva\obj\Debug\ColaDefinitiva.pdb

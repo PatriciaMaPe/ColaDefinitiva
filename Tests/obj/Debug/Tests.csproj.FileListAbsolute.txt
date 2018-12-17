@@ -1,0 +1,11 @@
+/home/pmperez/Projects/ColaDefinitiva/Tests/obj/Debug/Tests.csprojResolveAssemblyReference.cache
+/home/pmperez/Projects/ColaDefinitiva/Tests/obj/Debug/Tests.csproj.CoreCompileInputs.cache
+/home/pmperez/Projects/ColaDefinitiva/Tests/bin/Debug/Tests.dll
+/home/pmperez/Projects/ColaDefinitiva/Tests/bin/Debug/Tests.pdb
+/home/pmperez/Projects/ColaDefinitiva/Tests/bin/Debug/ColaDefinitiva.exe
+/home/pmperez/Projects/ColaDefinitiva/Tests/bin/Debug/nunit.framework.dll
+/home/pmperez/Projects/ColaDefinitiva/Tests/bin/Debug/ColaDefinitiva.pdb
+/home/pmperez/Projects/ColaDefinitiva/Tests/bin/Debug/nunit.framework.pdb
+/home/pmperez/Projects/ColaDefinitiva/Tests/bin/Debug/nunit.framework.xml
+/home/pmperez/Projects/ColaDefinitiva/Tests/obj/Debug/Tests.dll
+/home/pmperez/Projects/ColaDefinitiva/Tests/obj/Debug/Tests.pdb

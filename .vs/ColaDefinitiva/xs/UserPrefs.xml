@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{FF65B097-A28D-4615-81FC-CB639320015B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ColaDefinitiva/Program.cs">
+    <Files>
+      <File FileName="ColaDefinitiva/Program.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ColaDefinitiva PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

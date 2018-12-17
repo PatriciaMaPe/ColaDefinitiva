@@ -1,0 +1,16 @@
+/home/pmperez/Projects/ColaDefinitiva/ColaDefinitiva/bin/Debug/ColaDefinitiva.exe
+/home/pmperez/Projects/ColaDefinitiva/ColaDefinitiva/bin/Debug/ColaDefinitiva.pdb
+/home/pmperez/Projects/ColaDefinitiva/ColaDefinitiva/obj/x86/Debug/ColaDefinitiva.csprojResolveAssemblyReference.cache
+/home/pmperez/Projects/ColaDefinitiva/ColaDefinitiva/obj/x86/Debug/ColaDefinitiva.csproj.CoreCompileInputs.cache
+/home/pmperez/Projects/ColaDefinitiva/ColaDefinitiva/obj/x86/Debug/ColaDefinitiva.exe
+/home/pmperez/Projects/ColaDefinitiva/ColaDefinitiva/obj/x86/Debug/ColaDefinitiva.pdb
+C:/Users/Patri/Downloads/Parte2DIA/ColaDefinitiva/ColaDefinitiva/bin/Debug/ColaDefinitiva.exe
+C:/Users/Patri/Downloads/Parte2DIA/ColaDefinitiva/ColaDefinitiva/bin/Debug/ColaDefinitiva.pdb
+C:/Users/Patri/Downloads/Parte2DIA/ColaDefinitiva/ColaDefinitiva/obj/x86/Debug/ColaDefinitiva.csproj.CoreCompileInputs.cache
+C:/Users/Patri/Downloads/Parte2DIA/ColaDefinitiva/ColaDefinitiva/obj/x86/Debug/ColaDefinitiva.exe
+C:/Users/Patri/Downloads/Parte2DIA/ColaDefinitiva/ColaDefinitiva/obj/x86/Debug/ColaDefinitiva.pdb
+/Users/patripon/Downloads/ColaDefinitiva/ColaDefinitiva/bin/Debug/ColaDefinitiva.exe
+/Users/patripon/Downloads/ColaDefinitiva/ColaDefinitiva/bin/Debug/ColaDefinitiva.pdb
+/Users/patripon/Downloads/ColaDefinitiva/ColaDefinitiva/obj/x86/Debug/ColaDefinitiva.csproj.CoreCompileInputs.cache
+/Users/patripon/Downloads/ColaDefinitiva/ColaDefinitiva/obj/x86/Debug/ColaDefinitiva.exe
+/Users/patripon/Downloads/ColaDefinitiva/ColaDefinitiva/obj/x86/Debug/ColaDefinitiva.pdb
